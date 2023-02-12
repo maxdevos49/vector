@@ -1,10 +1,16 @@
 {
-    "name": "@m4xdev/<library>",
+    "name": "@m4xdev/vector",
     "version": "0.0.1",
-    "description": "<library description>",
+    "description": "A simple vector 2D/3D library.",
     "author": "Maxwell DeVos",
     "license": "ISC",
-    "keywords": [],
+    "keywords": [
+        "vector",
+        "vectors",
+        "vector2d",
+        "vector3d",
+        "immutable"
+    ],
     "main": "./dist/index.js",
     "type": "module",
     "scripts": {
