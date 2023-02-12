@@ -1,6 +1,6 @@
-# Vector 3D library
+# Vector 1D/2D/3D library
 
-A simple light weight vector library with vector utilities functions. Vectors are simple object literals and individual components can be. All utilities are immutable and return a new vector literal.
+A simple light weight vector library with vector utility functions. All utilities are immutable and return a new vector object literal.
 
 ## Example
 ```ts
