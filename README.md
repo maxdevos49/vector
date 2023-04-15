@@ -1,4 +1,4 @@
-# Vector 1D/2D/3D library
+# Vector 3D library
 
 A simple light weight vector library with vector utility functions. All utilities are immutable and return a new vector object literal.
 
